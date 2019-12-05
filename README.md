@@ -1,2 +1,2 @@
-# office_countdown
- From Monday to Friday, your office life
+# js-momentum
+ momentum clone coding using javascript
